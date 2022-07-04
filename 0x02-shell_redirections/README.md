@@ -1,1 +1,1 @@
-Task 9:Duplicate last line
+Task 10:No more javascript
